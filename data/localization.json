@@ -1,0 +1,75 @@
+{
+	"supportedLanguages": ["FI", "EN"],
+	"BOOK": {
+		"FI": "Varaa",
+		"EN": "Book"
+	},
+	"FREE": {
+		"FI": "Vapauta",
+		"EN": "Free"
+	},
+	"CANCEL": {
+		"FI": "Peruuta",
+		"EN": "Cancel"
+	},
+	"UNTIL_NEXT": {
+		"FI": "Seuraavaan asti",
+		"EN": "Until next"
+	},
+	"FREE_ROOM": {
+		"FI": "Vapauta huone",
+		"EN": "Free the room"
+	},
+	"BOOK_ROOM": {
+		"FI": "Varaa huone",
+		"EN": "Book the room"
+	},
+	"NEXT_EVENT": {
+		"FI": "Seuraava\nvaraus",
+		"EN": "Next\nevent"
+	},
+	"NO_UPCOMING_EVENTS": {
+		"FI": "Ei muita\nvarauksia\ntänään",
+		"EN": "No other\nupcoming\nevents"
+	},
+	"BOOKED": {
+		"FI": "Varattu",
+		"EN": "Booked"
+	},
+	"NOT_BOOKED": {
+		"FI": "Huone vapaa",
+		"EN": "Free"
+	},
+	"BOOK_ROOM_QUESTION": {
+		"FI": "Varataanko huone",
+		"EN": "Book the room"
+	},
+	"FREE_CONFIRM_TITLE": {
+		"FI": "Vahvista huoneen vapautus",
+		"EN": "Confirm freeing the room"
+	},
+	"SETTINGS": {
+		"FI": "Asetukset",
+		"EN": "Settings"
+	},
+	"VERSION": {
+		"FI": "Versio",
+		"EN": "Version"
+	},
+	"NEW_EVENT_SUMMARY": {
+		"FI": "Monad Booking varaus",
+		"EN": "Monad Booking Event"
+	},
+	"UPDATE": {
+		"FI": "PÄIVITÄ",
+		"EN": "UPDATE"
+	},
+	"LATEST_VERSION": {
+		"FI": "Uusin versio",
+		"EN": "Latest version"
+	},
+	"CHARGE_ME": {
+		"FI": "Kytke laturi",
+		"EN": "Charge me"
+	}
+}
